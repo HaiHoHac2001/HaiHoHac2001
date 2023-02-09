@@ -6,7 +6,7 @@ Thank you very much.<br>
 
 <a href="https://github.com/HaiHoHac2001/tiktokUI">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=HaiHoHac2001&repo=TikTok Clone&theme=merko" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=HaiHoHac2001&repo=TikTokClone&theme=merko" />
 </a>
 
 <a href="https://github.com/HaiHoHac2001/Analysis_Score_HighSchoolExam_HCM2020">
@@ -29,7 +29,7 @@ Thank you very much.<br>
 
 <a href="https://github.com/HaiHoHac2001/expenses_App">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=HaiHoHac2001&repo=Expenses App&theme=dark" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=HaiHoHac2001&repo=ExpensesApp&theme=dark" />
 </a>
 
 
