@@ -4,9 +4,9 @@ Thank you very much.<br>
 ## 📫 How to reach me: 
 [GitHub](https://github.com/HaiHoHac2001/) [Facebook](https://www.facebook.com/hai.ho.52493499)
 
-<a href="https://github.com//HaiHoHac2001/tiktokUI">
+<a href="https://github.com/HaiHoHac2001/tiktokUI">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=uvipen&repo=TikTok-Clone&theme=radical" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=HaiHoHac2001&repo=TikTok-Clone&theme=radical" />
 </a> 
 
 <a href="https://github.com/HaiHoHac2001/Analysis_Score_HighSchoolExam_HCM2020">
