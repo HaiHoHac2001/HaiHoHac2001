@@ -3,12 +3,6 @@ I am currently a 4th year student at the Faculty of Information Technology Scien
 Thank you very much.<br>
 ## 📫 How to reach me: 
 
-
-<a href="https://github.com/HaiHoHac2001/tiktokUI">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=HaiHoHac2001&repo=tiktokUI
-&theme=radical" />
-</a>    
 <a href="https://github.com/HaiHoHac2001/Analysis_Score_HighSchoolExam_HCM2020">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=HaiHoHac2001&repo=Analysis_Score_HighSchoolExam_HCM2020&theme=merko" />
